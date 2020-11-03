@@ -1,1 +1,27 @@
 # Labb1 new txt file
+
+# Outout from git log:
+
+commit 1ded6634a500a1952a04b6b2f8666abe401d9ee9 (HEAD -> master, modify_txt)
+Author: Hans Sandblom <hans.sandblom@iths.se>
+Date:   Tue Nov 3 15:19:15 2020 +0100
+
+    New labb1.txt added
+
+commit e13ae5bb134dcbf91d0c207dd1f774b1515a1e65 (origin/master)
+Author: Hans Sandblom <hans.sandblom@iths.se>
+Date:   Tue Nov 3 15:14:44 2020 +0100
+
+    Added ignore *.log files in gitignore
+
+commit d043d1196576710df8271c4675ef38fc1dcaa237
+Author: Hans Sandblom <hans.sandblom@iths.se>
+Date:   Tue Nov 3 15:08:24 2020 +0100
+
+    Added gitignore file
+
+commit 04132cef0390f2aed92492a228f1b33eab614a92
+Author: Hans Sandblom <hans.sandblom@iths.se>
+Date:   Tue Nov 3 15:05:16 2020 +0100
+
+    Added readme
